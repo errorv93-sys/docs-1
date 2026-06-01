@@ -99,3 +99,4 @@ For more information on how modulo works, see the official documentation of [Fug
   <tr><th><code>0 16 L * *</code></th><td>The last day of the month at 4pm UTC</td></tr>
   <tr><th><code>0 0 * * 2%2+1</code></th><td>The start of every odd Tuesday</td></tr>
 </table>
+https://github.com/jmettraux/rufus-scheduler/blob/two/README.rdoc
